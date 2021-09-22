@@ -1,1 +1,1 @@
-TinDog Starting Files
+Tindog is a demo Frontend Site for showcasing Bootstrap Functionality.
